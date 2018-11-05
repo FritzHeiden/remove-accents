@@ -3,16 +3,16 @@ This little module allows the removal of any accent from each character in a str
 special UTF-8 characters to the visually closest character.
 
 ## Examples
-```
+```text
 é => e
 ```
-```
+```text
 œ => oe
 ```
-```
+```text
 ȸ => db
 ```
-```
+```text
 ß => ss // in the german language, those are interchangeable
 ```
 
