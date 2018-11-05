@@ -25,7 +25,7 @@ const withoutAccent = removeAccents(withAccent)
 console.log(withoutAccent)
 ```
 Output:
-```
+```text
 expose
 ```
 Script:
@@ -36,6 +36,6 @@ const withoutAccent = removeAccents(withAccent)
 console.log(withoutAccent)
 ```
 Output:
-```
+```text
 expose
 ```
