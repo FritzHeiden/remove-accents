@@ -1,6 +1,6 @@
 {
   "name": "remove-accents",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Removing accents from characters and converting UTF-8 Ascii-like characters to plain characters.",
   "main": "index.js",
   "scripts": {
