@@ -1616,6 +1616,8 @@ function removeAccent (char) {
       return 'nn'
     case 'ẟ':
       return 'd'
+    default:
+      return char
   }
 }
 
