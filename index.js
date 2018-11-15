@@ -1,4 +1,6 @@
 function removeAccents (text) {
+  if (!text) return text
+
   let result = ''
   for (let i = 0; i < text.length; i++) {
     result += removeAccent(text[i])
